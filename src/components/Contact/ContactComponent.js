@@ -28,7 +28,7 @@ function Contact() {
                   <ul>
 
                     <li className="about-activity">
-                      <AiOutlineMail /> Email : <a className="purple" style={{ "textDecoration": "none" }} href="mailto:annavarapusainadh2002@gmail.com" target={"_blank"}>annavarapusainadh2002@gmail.com</a>
+                      <AiOutlineMail /> Email : <a className="purple" style={{ "textDecoration": "none" }} href="mailto:annavarapusainadh2002@gmail.com" target={"_blank"} rel="noopener noreferrer">annavarapusainadh2002@gmail.com</a>
                       <br />
                       <br />
                     </li>

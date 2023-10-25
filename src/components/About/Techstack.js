@@ -7,7 +7,7 @@ import {
   // DiNodejs,
   // DiMongodb,
   DiPython,
-  DiGit,
+  // DiGit,
   DiJava,
 } from "react-icons/di";
 // import {
